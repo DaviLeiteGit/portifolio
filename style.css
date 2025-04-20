@@ -121,7 +121,7 @@ section{
     box-shadow: 0 0 50px #077b32;
 }
 .main-container .image img{
-    width: 100%;
+    width: 136%;
 }
 .main-container .image:hover{
     animation: animate 1.5s ease-in-out infinite;
