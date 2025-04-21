@@ -1,9 +1,11 @@
 function hamburg() {
     const navbar = document.querySelector(".dropdown")
+    document.querySelector(".hamburg").style.visibility = "hidden"
     navbar.style.transform = "translateY(0px)"
 }
 function cancel() {
     const navbar = document.querySelector(".dropdown")
+    document.querySelector(".hamburg").style.visibility = "visible"
     navbar.style.transform = "translateY(-500px)"
 }
 
