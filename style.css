@@ -108,7 +108,7 @@ nav {
 }
 section{
     width: 100%;
-    height: 90vh;
+    min-height: 60vh;
     padding-top: 10vh; 
 }
 .main-container{
